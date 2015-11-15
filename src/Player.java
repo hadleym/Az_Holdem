@@ -4,6 +4,7 @@ import java.util.ArrayList;
 // Class that holds each player's cards (including community cards), balance, and evaluates
 // its hand strength.
 public class Player {
+	//adding changes
 	ArrayList<Card> holeCards;
 	int playerNumber;
 	double balance;
